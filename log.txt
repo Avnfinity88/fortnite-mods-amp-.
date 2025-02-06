@@ -1,0 +1,83 @@
+Mon Jan  8 00:43:29 2024
+Unknown platform.
+Ren'Py 7.5.2.22081402
+ 
+
+Bootstrap to the start of init.init took 0.00s
+Bootstrap to the start of init.init took 0.00s
+Manufacturer samsung model SM-A146U
+Screen diagonal is 5.39748821327 inches.
+Early init took 0.12s
+Early init took 0.12s
+Attempting to migrate your saves from stock location...
+Android search paths: /storage/emulated/0/Android/data/com.estrada777.insidejennifer/files/../../../../Documents/RenPy_Saves/com.estrada777.insidejennifer/game /data/user/0/com.estrada777.insidejennifer/files/game
+Loader init took 0.17s
+Loader init took 0.17s
+Loading error handling took 0.15s
+Loading error handling took 0.15s
+Loading script took 2.74s
+Loading script took 2.74s
+Saving to /storage/emulated/0/Android/data/com.estrada777.insidejennifer/files/../../../../Documents/RenPy_Saves/com.estrada777.insidejennifer
+Loading save slot metadata. took 0.10s
+Loading save slot metadata. took 0.10s
+Loading persistent took 0.00s
+Loading persistent took 0.00s
+Importing _renpysteam: ImportError('No module named _renpysteam',)
+Faled to initialize steam: OSError('dlopen failed: library "/data/user/0/com.estrada777.insidejennifer/files/libsteam_api.so" not found',)
+Set script version to: (7, 5, 2)
+ - Init at 00images.rpyc:52 took 0.36262 s.
+Running init code took 0.63s
+Running init code took 0.63s
+Loading analysis data took 0.10s
+Loading analysis data took 0.10s
+Analyze and compile ATL took 0.07s
+Analyze and compile ATL took 0.07s
+Index archives took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.00s
+Dump and make backups. took 0.00s
+Cleaning cache took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.32s
+Initial gc. took 0.32s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.38s
+Init translation took 0.38s
+Build styles took 0.01s
+Build styles took 0.01s
+Load screen analysis took 0.13s
+Load screen analysis took 0.13s
+Analyze screens took 0.01s
+Analyze screens took 0.01s
+Save screen analysis took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.33s
+Prepare screens took 0.33s
+Save pyanalysis. took 0.00s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Running _start took 0.00s
+Interface start took 0.60s
+Interface start took 0.60s
+
+Initializing gles2 renderer:
+primary display bounds: (0, 0, 2208, 1012)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: 'ARM'
+Renderer: 'Mali-G57 MC2'
+Version: 'OpenGL ES 3.2 v1.r32p1-01eac0.f20ecd5cf326048879c2d906512e687e'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2343, 1080) drawable=(2343, 1080)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
+Total time until interface ready: 6.47171401978s
+Hid presplash.
